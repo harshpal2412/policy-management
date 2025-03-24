@@ -1,0 +1,4 @@
+policyNumber,policyHolder,policyType,startDate,endDate,premiumAmount
+P12345,John Doe,Life Insurance,01/01/2025,01/01/2030,5000
+P12346,Alice Smith,Health,15/06/2024,15/06/2027,3000
+P12347,Bob Martin,Auto Insurance,10/09/2023,10/09/2026,4500
